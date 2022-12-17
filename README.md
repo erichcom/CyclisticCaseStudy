@@ -85,8 +85,8 @@ I added ride length column to see the behavioral difference for annual members a
 ![figure 4.02](Visualization/Trip_Time_Usage_by_Member_Type.png) 
 
 <br />
-According to figure 4.01 and 4.02, 40.93% of total rides from casual riders occupied 61.35% of total capacity from all the bikes.
-<hr/>
+According to above figures, 40.93% of total rides from casual riders occupied 61.35% of total capacity from all the bikes.
+
 
 
 ![figure 4.03](Visualization/Weekday_Time_Usage.png) <hr/>
@@ -96,26 +96,26 @@ According to figure 4.01 and 4.02, 40.93% of total rides from casual riders occu
 ![figure 4.05](Visualization/Number_Of_Rides_by_Member_Bike_Type.png) 
 
 <br />
-According to figure 4.05, there was no single usage of docked bike by annual members. I suspect there is missing or wrong data here. Otherwise, it appears that annual members either don't like docked bikes or the future locations of docked bikes might needs to pay more attention to annual members.
+According to above figure, there was no single usage of docked bike by annual members. I suspect there is missing or wrong data here. Otherwise, it appears that annual members either don't like docked bikes or the future locations of docked bikes might needs to pay more attention to annual members.
 <hr/>
 
 ![figure 4.06](Visualization/Weekday Rides Trend.png) 
 
 <br />
-According to figure 4.06, The Weekday Rides Trend shows that members tend to ride more during the weekdays and casual riders prefers the weekend. The number of rides from casual riders even surplussed annual members on Saturday. 
+According to above figure, The Weekday Rides Trend shows that members tend to ride more during the weekdays and casual riders prefers the weekend. The number of rides from casual riders even surplussed annual members on Saturday. 
 <hr/>
 
 
 ![figure 4.07](Visualization/Number_Of_Rides_By_Month.png) 
 
 <br />
-According to figure 4.07, people tend to use bike-share service less in the winter season. It is believed that temperature and bad road condition are the reasons behind.
-<hr/>
+According to above figure, people tend to use bike-share service less in the winter season. It is believed that temperature and bad road condition are the reasons behind.
+
 
 ![figure 4.08](Visualization/Number_Of_Rides_by_Hours.png) 
 
 <br />
-According to figure 4.08, the number of rides raise quickly in the morning between 7am and 9am. The number of rides raise quickly after 11am for both casual riders and annual members and peaked between 4pm and 7pm. The number of rides died down after mid night until 6am the next day.
+According to above figure, the number of rides raise quickly in the morning between 7am and 9am. The number of rides raise quickly after 11am for both casual riders and annual members and peaked between 4pm and 7pm. The number of rides died down after mid night until 6am the next day.
 <hr/>
 
 
@@ -133,7 +133,7 @@ According to figure 4.09 and 4.19, the most popular start and end stations are s
 
 
 <br />
-According to the head maps showed side-by-side in figure 4.11, the most popular start stations scatter between the harbor area in downtown Chicago and big Chicago State University area, while the most popular end stations are densely located along side the harbor downtown area. Given the fact that the number of available bikes are limited, the company might want to consider transporting some of the bikes from the harbor area in the low business hour (from 1am to 5am according to figure 4.08) to big Chicago State University area to increase investment/profit ratio.
+According to the head maps showed side-by-side in above figure, the most popular start stations scatter between the harbor area in downtown Chicago and big Chicago State University area, while the most popular end stations are densely located along side the harbor downtown area. Given the fact that the number of available bikes are limited, the company might want to consider transporting some of the bikes from the harbor area in the low business hour (from 1am to 5am according to figure 4.08) to big Chicago State University area to increase investment/profit ratio.
 <hr/>
 
 
