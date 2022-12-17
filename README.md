@@ -1,10 +1,10 @@
 # Google Data Analytics Professional Certificate Capstone Project
 
 ---
-title: "Case Study - Cyclistic"
-author: "Eric Weichao Huang"
-date: "2022/12/15"
-output: html_document
+Title: "Case Study - Cyclistic" <br />
+Author: "Eric Weichao Huang" <br />
+Date: "2022/12/15" <br />
+Output: html_document <br />
 ---
 
 ![](Visualization/CyclisticBikeShare.png)
@@ -146,12 +146,4 @@ The visualization that I’m most proud of are the Weekday Rides Trend and the h
 
 As a junior data analyst, I would prepare a power point presentation to show my finds to my boss, Lily Moreno. With her help, I believe I can improve my findings and dig deeper for more fundamental factors to support the business task.
 
-* Appendix
 
-ride_ids that I removed from the dataset that have end time earlier than start time:
-
-```{r}
-library(readxl)
-removed_data <- read_excel("RemovedData.xlsx")
-View(removed_data)
-```
