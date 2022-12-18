@@ -70,7 +70,7 @@ I ran SQL script to check and removed records that have ended time earlier than 
 * **Power BI**: As I'm more used to with Power BI and the total size of the dataset was considerably big, Power BI worked better for me and it allows me to clean the data by filtering out the incomplete data.
 I used Power BI to filter out the records that contains blank start or end station id/names.<br />
 I added a few new columns, such as, DayOfWeek, DayNumOfWeek, HourOfDay, RideLengthMin, and RideLengthSec to help with further analysis.
-* **Kaggle**: for posting and sharing my final report.
+* **GitHub**: for posting and sharing my final report on the internet.
 
 ### 4. Analyze
 
@@ -133,7 +133,7 @@ According to figure 4.09 and 4.19, the most popular start and end stations are s
 
 
 <br />
-According to the head maps showed side-by-side in above figure, the most popular start stations scatter between the harbor area in downtown Chicago and big Chicago State University area, while the most popular end stations are densely located along side the harbor downtown area. Given the fact that the number of available bikes are limited, the company might want to consider transporting some of the bikes from the harbor area in the low business hour (from 1am to 5am according to figure 4.08) to big Chicago State University area to increase investment/profit ratio.
+According to the heat maps showed side-by-side in above figure, the most popular start stations scatter between the harbor area in downtown Chicago and big Chicago State University area, while the most popular end stations are densely located along side the harbor downtown area. Given the fact that the number of available bikes are limited, the company might want to consider transporting some of the bikes from the harbor area in the low business hour (from 1am to 5am according to figure 4.08) to big Chicago State University area to increase investment/profit ratio.
 <hr/>
 
 
